@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+body{
+    height: 98.46vh;
+    background-image: linear-gradient(to bottom right,#16acc7 , #013ba6 30%,#013ba6 30%, #013ba6 40%, #013ba6 50%, #013ba6 60%, #013ba6 70%, #16acc7  );
+}
+form{
+    background: #013082;
+    display: inline-block;
+    padding: 30px;
+}
+#form{
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    height: 98.46vh;
+}
